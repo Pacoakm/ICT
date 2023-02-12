@@ -29,7 +29,7 @@ diff = list(differ.compare(file1_contents, file2_contents))
 fol = list("\n".join(diff).split("\n"))
 
 fol = [fol[i] for i in range(len(fol)) if i % 2 == 0]
-print(fol)
+
 if not diff:
     print("No difference")
 else:

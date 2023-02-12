@@ -8,10 +8,9 @@ from selenium.webdriver.common.by import By
 from requests.sessions import should_bypass_proxies
 from selenium.webdriver.common.action_chains import ActionChains
 
-# import required modules
+
 from bs4 import BeautifulSoup
 import requests
-import pandas as pd
 
 
 import numpy as np
@@ -22,42 +21,57 @@ from time import sleep
 # create a new Chrome driver
 print("Starting...")
 driver = webdriver.Chrome()
-input_name = str(input("Please enter your IG username: "))
-input_pass = str(input("Please enter your password: "))
 
 
 driver.get("https://www.instagram.com")
+input_name = str(input("Please enter your IG username: "))
+input_pass = str(input("Please enter your password: "))
+
 print("Logging in. Please wait...")
-sleep(6)
-user_name = driver.find_element(By.NAME, "username")
-user_name.send_keys(input_name)
+
+done = False
+while done == False:
+    try:
+        user_name = driver.find_element(By.NAME, "username")
+        user_name.send_keys(input_name)
+        done = True
+    except:
+        pass
+
+
 sleep(0.5)
 user_pass = driver.find_element(By.NAME, "password")
 user_pass.send_keys(input_pass)
 sleep(0.5)
 press_login = driver.find_element(By.XPATH, "//button[@type='submit']")
 press_login.click()
-sleep(15)
+sleep(10)
+
 try:
     later = driver.find_element(
         By.XPATH,
         "/html/body/div[2]/div/div/div/div[1]/div/div/div/div[1]/div[1]/div[2]/section/main/div/div/div/div/button",
     )
     later.click()
-except:
-    pass
-sleep(6)
-try:
-    later_noti = driver.find_element(
-        By.XPATH,
-        "/html/body/div[2]/div/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/button[2]",
-    )
-    later_noti.click()
+
 except:
     pass
 
 
-driver.get("https://www.instagram.com/pacoakm/followers/")
+done = False
+while done == False:
+    try:
+        later_noti = driver.find_element(
+            By.XPATH,
+            "/html/body/div[2]/div/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/button[2]",
+        )
+        later_noti.click()
+        done = True
+    except:
+        pass
+
+
+driver.get(f"https://www.instagram.com/{input_name}/followers/")
 
 
 fol = []
@@ -72,7 +86,8 @@ for i in divs:
     fol.append(i.text)
 fol.sort()
 now = datetime.datetime.now()
-filename = "followers_{}.txt".format(now.strftime("%Y-%m-%d_%H-%M-%S"))
+t = format(now.strftime("%Y-%m-%d_%H-%M-%S"))
+filename = f"followers_{input_name}_{t}.txt"
 
 with open(filename, "w") as file:
     # Write each item in the list to a new line in the file
@@ -80,5 +95,6 @@ with open(filename, "w") as file:
         file.write(str(item) + "\n")
 
 print(
-    f"A .txt file of followers at {format(now.strftime('%Y-%m-%d_%H-%M-%S'))} has been saved"
+    f"A .txt file of {input_name}'s followers at {format(now.strftime('%Y-%m-%d_%H-%M-%S'))} has been saved."
 )
+driver.quit()
