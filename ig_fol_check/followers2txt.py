@@ -85,6 +85,7 @@ divs = soup.select("div._ab8y._ab94._ab97")
 for i in divs:
     fol.append(i.text)
 fol.sort()
+
 now = datetime.datetime.now()
 t = format(now.strftime("%Y-%m-%d_%H-%M-%S"))
 filename = f"followers_{input_name}_{t}.txt"

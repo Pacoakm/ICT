@@ -30,15 +30,22 @@ fol = list("\n".join(diff).split("\n"))
 
 fol = [fol[i] for i in range(len(fol)) if i % 2 == 0]
 
+print(*fol)
 if not diff:
     print("No difference")
 else:
     print("Unfollowers: ")
     for i in fol:
-        if i[0] == "-":
-            print(i[2:])
+        try:
+            if i[0] == "-":
+                print(i[2:])
+        except:
+            pass
     print()
     print("New followers:")
     for i in fol:
-        if i[0] == "+":
-            print(i[2:])
+        try:
+            if i[0] == "+":
+                print(i[2:])
+        except:
+            pass
