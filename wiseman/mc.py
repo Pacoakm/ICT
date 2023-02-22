@@ -9,14 +9,17 @@ from selenium.webdriver.common.by import By
 from requests.sessions import should_bypass_proxies
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.chrome.options import Options
+
 from bs4 import BeautifulSoup
 import requests
 import numpy as np
 import matplotlib.pyplot as plt
 from time import sleep
 
-
+# create a new Chrome driver
 print("Starting...")
+
+
 options = Options()
 options.headless = False
 options.add_argument("--disable-extensions")
@@ -80,6 +83,25 @@ while True:
     ans = []
     input_lesson = input("Input the lesson link: ")
     driver.get(input_lesson)
+    frame = WebDriverWait(driver, 7).until(
+        EC.presence_of_element_located((By.CSS_SELECTOR, "iframe#course"))
+    )
+    driver.switch_to.frame(frame)
+
+    challen = WebDriverWait(driver, 7).until(
+        EC.presence_of_element_located((By.ID, "select-group-1"))
+    )
+    challen.click()
+    sleep(0.2)
+    start_button = WebDriverWait(driver, 7).until(
+        EC.presence_of_element_located(
+            (
+                By.XPATH,
+                "/html/body/app-root/course/div[2]/app-start-part/div/div[2]/div[3]/button",
+            )
+        )
+    )
+    start_button.click()
     sleep(5)
     for i in range(20):
         if i == 0:
@@ -89,11 +111,6 @@ while True:
         sleep(0.5)
         skip_alert()
 
-        if i == 0:
-            frame = WebDriverWait(driver, 7).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, "iframe#course"))
-            )
-            driver.switch_to.frame(frame)
         skip_alert()
 
         while True:
@@ -109,11 +126,9 @@ while True:
         skip_alert()
         html = driver.page_source
         soup = BeautifulSoup(html, "html.parser")
-        divs = soup.select("span.fix-answer.ng-star-inserted")
+        divs = soup.select("label.correct-answer")
         for i in divs:
             temp = i.text
-            if "/" in temp:
-                temp = temp[0 : temp.index("/") - 1]
             ans.append(temp)
         skip_alert()
         try:
@@ -151,62 +166,7 @@ while True:
     )
     login()
     driver.get(input_lesson)
-
-    for i in range(20):
-        sleep(0.5)
-        if i == 0:
-            frame = WebDriverWait(driver, 7).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, "iframe#course"))
-            )
-            driver.switch_to.frame(frame)
-        try:
-            next_button = WebDriverWait(driver, 2).until(
-                EC.presence_of_element_located(
-                    (By.CLASS_NAME, "float-right.next.btn-r.ng-star-inserted")
-                )
-            )
-            next_button.click()
-            sleep(0.5)
-        except:
-            pass
-        try:
-            input_ans = WebDriverWait(driver, 4).until(
-                EC.presence_of_element_located(
-                    (
-                        By.CSS_SELECTOR,
-                        'input[autocomplete="off"][class="ng-untouched ng-pristine ng-valid ng-star-inserted"]',
-                    )
-                )
-            )
-        except:
-            pass
-
-        try:
-            input_ans.send_keys(ans[i])
-        except:
-            pass
-
-        submit_button = WebDriverWait(driver, 4).until(
-            EC.presence_of_element_located(
-                (By.CLASS_NAME, "float-right.submit.btn-r.ng-star-inserted")
-            )
-        )
-        try:
-            submit_button.click()
-        except:
-            pass
-        sleep(0.5)
-
-        try:
-            next_button = WebDriverWait(driver, 4).until(
-                EC.presence_of_element_located(
-                    (By.CLASS_NAME, "float-right.next.btn-r.ng-star-inserted")
-                )
-            )
-            next_button.click()
-            sleep(0.5)
-        except:
-            break
+    input("Please finish the lessons... ")
     sleep(0.5)
     driver.get(
         "https://lms.wiseman.com.hk/lms/user/secure/course/eb/select_theme/lessons.shtml"
