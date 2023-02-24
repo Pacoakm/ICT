@@ -38,7 +38,7 @@ else:
     for i in fol:
         try:
             if i[0] == "-":
-                print(i[2:])
+                print(f"@{i[2:]}")
         except:
             pass
     print()
@@ -46,6 +46,6 @@ else:
     for i in fol:
         try:
             if i[0] == "+":
-                print(i[2:])
+                print(f"@{i[2:]}")
         except:
             pass
