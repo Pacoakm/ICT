@@ -1,2 +1,300 @@
 # ICT
 Sing Yin Secondary School ICT Course update
+cite
+cognitive
+commitment
+condemn
+conservative
+constrain contrasts
+convergence
+coordinator
+counter 
+
+
+
+
+
+critical	沉重的（語氣）、要緊、關鍵的		
+teasing	打趣、挑逗的（語氣）		
+reassuring	安撫、讓人放心的（語氣）		
+assertive	堅定的		
+tattoo	紋身		
+minimalistic	極簡主義		
+shitload	很多 a lot of		
+accusation	指控		
+versatile	多才多藝的		
+vomit	嘔吐		
+divorced	離婚		
+cursing	罵人		
+indigenous	土著		
+holster	皮套		
+stunning	驚人的		
+outfit	裝備		
+shamble	亂七八糟		
+counter intuitive	反直覺		
+utensils	器皿		
+amuse	娛樂、玩樂		
+inform	通知、告知		
+deter	阻止		
+high-handed	adjective 高压的 ; 专横的 using power or authority more forcefully than is needed , without thinking about the feelings or wishes of other people		
+authority	權力		
+prejudice	偏见		
+preconceived	先入為主		
+stringent	嚴格的		
+precise	精確的		
+subtle	隐约的、微妙的		
+approach	方法		
+tirade	長篇大論		
+negotiate	談判		
+accuse	指控		
+abolish	廢除		
+counterpart	對方		
+being gutted	沮喪		
+Madness	瘋狂		
+mindfulness	正念		
+sensation	感覺		feeling
+adrenaline	腎上腺素		
+stereotype	刻板印象		
+sustain	支持，維持		
+inaccessible	難以接近		
+profound	深刻的		
+fast-paced	快節奏的		
+portrayed	描繪、刻劃		
+tranquillity	安寧、平靜		
+fetish	戀物癖		
+Superstition	迷信		
+various	各種		
+attempt	嘗試、企圖		
+fate	命中註定的事、命運		
+constrain	约束、压抑		
+passion	熱情		
+extraordinary	非凡的		
+enhance	加強、提升、增進		v
+profoundly	深刻地		
+glimpse	看一看；瞥见		
+commitment	承諾		
+thrills	刺激		
+hedonism	享乐主义		
+vitally	至为重要的是		
+tolerate	容忍		
+admit	承认		
+defendant	被告		
+persuade	說服 (convince)		
+circumstance	境 ； 境遇 ； 状況 ； 境況 ； 境 ； 境地 ； 景況 ； 形式 ； 迹状		
+suspect	懷疑、嫌疑犯	
+transform	轉換	
+apparently	似乎、好像	
+yell	叫喊	
+in particular	尤其是	
+breadwinner	养家糊口的人	
+devote	奉獻、貢獻	
+admire	佩服、欽佩	
+lift	抬起、升高、振奮		
+relevant	相關的		
+imply	意味着		
+rejuvenate	焕发活力		
+terrain	地形、地勢		
+emanate	散發、流露		
+mundane	世俗的、平凡的		
+precaution	預防措施		
+crucial	至關重要的		
+depicted	描繪		
+overbearing	霸道		
+parable	比喻		
+interconnected	互相關聯		
+weaves	編織		
+unpleasantly	不愉快地		
+appreciate	欣賞		
+motif	中心思想、主題		
+stranded	擱淺、滯留		
+vain	徒勞		
+edifying	啟迪		
+harness	駕馭、控制、安全帶		
+inevitably	不可避免地		
+barrier	障碍/屏障		
+inclusion	包容		
+rendezvous	会合/在约定场所会面		
+variety	不同的、多樣化的		
+beacon	信标、烽火、指明路燈		
+diversity	多樣性		
+mainstream	主流		
+accessible	無障礙		
+entrepreneur	企業家		
+demographic	人口统计		
+endeavour	努力、嘗試		
+undergo	經歷		
+diminish	減少、減弱		
+immense	巨大的、極好的		
+scarcity	缺乏、稀缺性		
+vibrant	活躍的、充滿個性的		
+motivate	激勵		
+witness	證人		
+detective	偵探		
+solicitor	律師		
+jury	陪審團		
+innocent	清白、無辜		
+angiogram	血管攝影		
+cognitive function	認知功能		
+deformity	畸形		
+don	教師		
+immerse	沉浸		
+superimpose	疊加		
+misshapen	畸形		
+tackle	应对、处理		
+ablaze	猛烈燃烧的		
+assault	突击、攻击		
+blame	责备		
+contrasts	对比、差异		
+noteworthy	值得注意的		
+acute	急性		
+ward	病房、牢房		
+impatient	不耐煩		
+hesitating	犹豫不决		
+uneasy	不安		
+weasel	黄鼠狼		
+etiquette	礼节		
+Mole	鼹鼠		
+dwell	居住 ， 栖身		
+allude	暗示/映射		
+affluent	富裕的		
+hobbit	霍比特人		
+diminutive	微型的、小型的		
+alongside	旁边的		
+dwarve	矮人		
+elves	精靈		
+occasional	偶然的		
+dehumanise	沒有人性的		
+orcs	獸人		
+trilogy	三部曲		
+allotted	分配的、配置的		
+destine	命运		
+dint	凭借、因为		
+unsubtle	含蓄的		
+islamic	伊斯兰教的		
+arbitrary	任意的		
+hierarchy	等级制度		
+precedence	优先级		
+harmony	和谐		
+tale	故事		
+drudgery	苦差事		
+vehicle	汽車		
+novella	短篇小说		
+dialect	方言		
+Braille	盲文		
+approximate	近似的		
+strand	擱淺、河岸、一串		
+asteroid	小行星		
+architecture	建築		
+Tease	捉弄、調侃、		
+accomplishment	成就		
+laud	讚美		
+appropriation	撥款		
+desiccated	乾燥的		
+kidnapping	綁架		
+Ray	光線、射線		
+proceed	繼續		
+deserve	值得、應得		
+sheer	純粹的		
+conservative	保守的		
+vastness	廣大、遼闊、浩瀚		
+speck	斑点		
+paradoxically	矛盾的是		
+depression	蕭條、抑鬱症		
+soar	飆升		
+prevalent	流行的、普遍的		
+pregnancy	懷孕 名詞		
+anxiety	焦慮		
+incredulous	難以置信的		
+mocking	嘲笑的		
+disdainful	不屑一顧		
+psychiatric	精神科的		
+severe	嚴重、嚴苛的		
+pupil	小學生、學徒		
+indictment	控訴、譴責		
+susceptible	容易受影響的		
+Nonetheless	儘管如此		
+reluctant	勉強的、不情願的		
+swift	迅速		
+intervention	干涉、干預		
+demonstrate	展示、演示		
+materialist	物質主義者		
+buffeted	受到打擊		
+haunted	被困擾		
+stagnation	停滯、蕭條		
+pessimistic	悲觀		
+ignorant	無知的、愚昧的		
+vulnerable	容易受傷的、脆弱的		
+institution	機構、學院		
+cite	引用		
+cumulative	積累的		
+doctored	篡改		
+curate	策劃		
+wretched	淒慘、可憐、不幸的		
+stigmatize	污名化		
+condemn	譴責		
+diagnosed	確診		
+exasperated	被激怒的、惱怒的		
+lad	小夥子		
+being faddy	簡飲擇食		
+horrified	非常震驚		
+general practitioner	全科醫生		
+seizure	發作		
+	ADJIf you have preconceived ideas about something, you have already formed an opinion about it before you have enough information or experience. （观点）事先形成的，先入为主的Five minutes after he had arrived for the interview, I had abandoned my preconceived ideas about boxers...他到达采访地点不过5分钟，我就摒弃了自己对拳击手的那些成见。We all start with preconceived notions of what we want from life.我们开始时都对自己想从生活中得到什么抱有一些预想。		https://www.google.com/search?q=preconceived&oq=preconceived&aqs=edge..69i57.7685j0j4&sourceid=chrome&ie=UTF-8
+icy	/ˈaɪsi/		ADJ-GRADEDIf you describe something as icy or icy cold, you mean that it is extremely cold. 冰冷的;极冷的An icy wind blew hard across the open spaces...刺骨的寒风于开阔处呼啸着。His shoes and clothing were wet through and icy cold.他的鞋和衣服都湿透了，冰冷冰冷的。	ADJ-GRADEDIf you describe something as icy or icy cold, you mean that it is extremely cold. 冰冷的;极冷的An icy wind blew hard across the open spaces...刺骨的寒风于开阔处呼啸着。His shoes and clothing were wet through and icy cold.他的鞋和衣服都湿透了，冰冷冰冷的。ADJ-GRADEDAn icy road has ice on it. 结冰的;冰冻的ADJ-GRADEDIf you describe a person or their behaviour as icy, you mean that they are not affectionate or friendly, and they show their dislike or anger in a quiet, controlled way. 冷冰冰的;不友好的;冷漠的His response was icy.他反应冷淡。	★☆☆☆☆
+blast	/blɑ:st/		N-COUNTA blast is a big explosion, especially one caused by a bomb.  爆炸250 people were killed in the blast.250人在这次爆炸中丧生。	"N-COUNTA blast is a big explosion, especially one caused by a bomb.  爆炸250 people were killed in the blast.250人在这次爆炸中丧生。VERBIf something is blasted into a particular place or state, an explosion causes it to be in that place or state. If a hole is blasted in something, it is created by an explosion.  爆炸；炸毁；炸出；炸开There is a risk that toxic chemicals might be blasted into the atmosphere. 爆炸后有毒化学物质可能会进入大气层。...a terrible accident in which his left arm was blasted off by some kind of a bomb...他的左臂被某种炸弹炸飞的可怕事故VERBIf workers are blasting rock, they are using explosives to make holes in it or destroy it, for example so that a road or tunnel can be built.  炸（石）；爆破Their work was taken up with boring and blasting rock with gelignite...他们的工作是用葛里炸药炸石头，非常枯燥。They're using dynamite to blast away rocks to put a road in.他们用炸药炸石筑路。VERBTo blast someone means to shoot them with a gun.  枪击；开枪射击...a son who blasted his father to death after a lifetime of bullying...因从小到大一直被父亲虐待而开枪弑父的男子Alan Barnett, 28, was blasted with a sawn-off shotgun in Oldham on Thursday.28岁的艾伦·巴尼特于星期四在奥德姆被人用短管猎枪射杀。VERBIf someone blasts their way somewhere, they get there by shooting at people or causing an explosion.  （通过枪击） 冲出（道路）；轰开，炸开（通路）The police were reported to have blasted their way into the house using explosives...据报道，警方借助爆破冲进了房子。One armoured column attempted to blast a path through a barricade of buses and trucks.一个武装纵队试图从公交车和卡车组成的路障中间炸出一条通道来。VERBIfsomething blasts water or air somewhere, it sends out a sudden, powerful stream of it.  喷射（水流、气流等）blasting cold air over it makes the water evaporate...向它喷射冷空气可以使水蒸发。A blizzard was blasting great drifts of snow across the lake.暴风雪夹着大团的积雪吹过湖面。V-ERGIf you blast something such as a car horn, or if it blasts, it makes a sudden, loud sound. If something blasts music, or music blasts, the music is very loud.  （使）（汽车喇叭等）突然发出响亮的声音；（使）（音乐）轰响...drivers who do not blast their horns...不按喇叭的司机The sound of western music blasted as she entered.她一进门便听到西部音乐震天的响声。VERBYou can say that a sports player blasts the ball somewhere if he or she gives it a powerful kick or hit.  （体育运动中）用力踢，猛击Ramsay blasted the ball into the back of the net...拉姆齐劲射入网。He may try to blast his way out of trouble, playing attacking shots to balls he would not normally contemplate hitting.他可能是想努力摆脱困境，平时不会考虑击打的球也打起了进攻。VERBTo blast someone or something means to criticize them strongly.  炮轰；抨击Football: Taylor blasts Beck...足球：泰勒炮轰贝克。The Department of Health and a top immunologist have blasted a report in last week's Sunday Times.卫生部和一位知名免疫学家严词抨击了上周《星期日泰晤士报》的一篇报道。EXCLAMSome people say 'blast' to show that they are annoyed at something or someone.  （表示厌恶）真讨厌,真该死blast! I can't do anything with this.真该死！我拿这个一点办法也没有。N-SINGIf you say that something was a blast, you mean that you enjoyed it very much.  有趣的事；开心的事；乐趣Making the album was a real blast.做这个专辑真是一种乐趣。PHRASEIf something such as a radio or a heater is on full blast, or at full blast, it is producing as much sound or power as it is able to.  以最大音量；以最大功率In many of those homes the television is on full blast 24 hours a day...那些家庭有很多一天24小时把电视开到最大音量。You are unlikely to run the heater at full blast for long periods.你不太可能长时间把加热器开到最大挡位。PHRASEYou can use a blast from the past as a light-hearted way of referring to something such as an old song or fashion that you hear or notice again, and which reminds you of an earlier time.  岁月回响（勾起回忆的老歌、旧时尚等）"	★★★☆☆
+grip	/grɪp/		VERBIf you grip something, you take hold of it with your hand and continue to hold it firmly.  紧握；抓牢She gripped the rope.她紧紧抓住绳索。	"VERBIf you grip something, you take hold of it with your hand and continue to hold it firmly.  紧握；抓牢She gripped the rope.她紧紧抓住绳索。N-COUNTA grip is a firm, strong hold on something.  紧握；抓牢His strong hand eased the bag from her grip.他强有力的手迫使她松开了握紧袋子的双手。N-SINGSomeone's grip on something is the power and control they have over it.  掌握；支配；控制The president maintains an iron grip on his country...总统牢牢地控制着他的国家。Tony Blair last night tightened his grip on Labour mps with new powers to root out troublemakers.昨晚，托尼·布莱尔利用新赋予的权力铲除了制造事端者，加强了对工党议员的控制。VERBIf something grips you, it affects you very strongly.  强烈地影响Pain gripped him...他感到一阵剧痛。The entire community has been gripped by fear.恐惧笼罩着整个社区。VERBIf you are gripped by something such as a story or a series of events, your attention is concentrated on it and held by it.  吸引;迷住The nation is gripped by the dramatic story.举国上下都为那个戏剧性的故事牵动着。N-UNCOUNTIf things such as shoes or car tyres have grip, they do not slip.  防滑；抓地力...a new way of reinforcing rubber which gives car tyres better grip.加固橡胶以增强车胎抓地力的新方法N-COUNTA grip is a bag that is smaller than a suitcase, and that you use when you are travelling.  手提包；旅行袋PHRASEIf you get to grips with a problem or if you come to grips with it, you consider it seriously, and start taking action to deal with it.  认真考虑并着手处理The government's first task is to get to grips with the economy.政府的首要任务是处理好经济问题。PHRASEIf you get a grip on yourself, you make an effort to control or improve your behaviour or work.  （使自己）镇定下来；控制住（自己）PHRASEIf a person, group, or place is in the grip of something, they are being severely affected by it.  受制于；受…的深刻影响Britain is still in the grip of recession.英国依然没有摆脱经济衰退。...a region in the grip of severe drought.受大旱严重影响的地区PHRASEIf you lose your grip, you become less efficient and less confident, and less able to deal with things.  效率降低；失去信心；驾驭不住PHRASEIf you say that someone has a grip on reality, you mean they recognize the true situation and do not have mistaken ideas about it.  了解形势；理解现状Shakur loses his fragile grip on reality and starts blasting away at friends and foe alike.沙库尔丧失了对形势仅存的一点判断，无论对敌对友都开始大加挞伐。"	★★★☆☆
+massive	/ˈmæsɪv/		ADJ-GRADEDSomething that is massive is very large in size, quantity, or extent.  巨大的;庞大的;厚重的;强大的There was evidence of massive fraud. 有证据表明是巨额欺诈。...massive air attacks...大规模空袭	ADJ-GRADEDSomething that is massive is very large in size, quantity, or extent.  巨大的;庞大的;厚重的;强大的There was evidence of massive fraud. 有证据表明是巨额欺诈。...massive air attacks...大规模空袭ADJIf you describe a medical condition as massive, you mean that it is extremely serious.  (疾病)非常严重的，十分危急的He died six weeks later of a massive heart attack.六周后他因严重的心脏病发作去世。	★★★☆☆
+enhancement	"/ɪn'hɑ:nsmənt/"		N-VARThe enhancement of something is the improvement of it in relation to its value, quality, or attractiveness.  提高;增加;增强Music is merely an enhancement to the power of her words...音乐只是增强了她话语的力度。He was concerned with the enhancement of the human condition.他关心人类生存环境的改善。	N-VARThe enhancement of something is the improvement of it in relation to its value, quality, or attractiveness.  提高;增加;增强Music is merely an enhancement to the power of her words...音乐只是增强了她话语的力度。He was concerned with the enhancement of the human condition.他关心人类生存环境的改善。	★☆☆☆☆
+exclusive	/ɪkˈsklu:sɪv/		"ADJ-GRADEDIf you describe something as exclusive, you mean that it is limited to people who have a lot of money or who belong to a high social class, and is therefore not available to everyone.  高档的;高级的;奢华的He is already a member of Britain's most exclusive club...他已经是英国最高级俱乐部的成员了。The City was criticised for being too exclusive and uncompetitive.伦敦城被指责过于奢华和缺乏竞争力。"	"ADJ-GRADEDIf you describe something as exclusive, you mean that it is limited to people who have a lot of money or who belong to a high social class, and is therefore not available to everyone. 高档的;高级的;奢华的He is already a member of Britain's most exclusive club...他已经是英国最高级俱乐部的成员了。The City was criticised for being too exclusive and uncompetitive.伦敦城被指责过于奢华和缺乏竞争力。ADJSomething that is exclusive is used or owned by only one person or group, and not shared with anyone else. 独用的;独有的;独享的Our group will have exclusive use of a 60-foot boat...我们小组将独用一条60英尺长的船。Many of their cheeses are exclusive to our stores in Britain.在英国，他们生产的奶酪很多只在我们商店出售。ADJIf a newspaper, magazine, or broadcasting organization describes one of its reports as exclusive, they mean that it is a special report which does not appear in any other publication or on any other channel. （新闻报道）独家的He told the magazine in an exclusive interview: 'All my problems stem from drink'.他在接受一家杂志社的独家采访时说：“我所有的问题都是饮酒造成的。”Some papers thought they had an exclusive.一些报纸认为自己是独家报道。ADJIf a company states that its prices, goods, or services are exclusive of something, that thing is not included in the stated price, although it usually still has to be paid for. 不包括…的；不含…的All charges for service are exclusive of value added tax...所有服务费都不包括增值税。Skiing weekends cost £58 (exclusive of travel and accommodation).周末滑雪价格为58英镑（不含交通和住宿费）。PHRASEIf two things are mutually exclusive, they are separate and very different from each other, so that it is impossible for them to exist or happen together. 相互排斥的;互不相容的They both have learnt that ambition and successful fatherhood can be mutually exclusive.他们两个人都认识到了追求理想和做个好父亲不能两者兼顾。"	★★☆☆☆
+haughty	UK[ˈhɔː.ti] US[ˈhɑː.t̬i]		adjectiveunfriendly and seeming to consider yourself better than other people不友好的，傲慢的She has a rather haughty manner.她的举止非常傲慢。	adjectiveunfriendly and seeming to consider yourself better than other people不友好的，傲慢的She has a rather haughty manner.她的举止非常傲慢。	
+aura	UK[ˈɔː.rə] US[ˈɔːr.ə]		"noun [ C ]a feeling or character that a person or place seems to have气氛，氛围；气息The woods have an aura of mystery.这片树林透着神秘的气息。There's an aura of sadness about him.他看上去一副悲伤的样子。"	"noun [ C ]a feeling or character that a person or place seems to have气氛，氛围；气息The woods have an aura of mystery.这片树林透着神秘的气息。There's an aura of sadness about him.他看上去一副悲伤的样子。noun [ C ]a type of light that some people say they can see around people and animals（一些人声称在人或动物身体周围看到的）光环，光轮"	
+carpet	UK[ˈkɑː.pɪt] US[ˈkɑːr.pət]		"noun(a shaped piece of) thick material used for covering floors地毯；地毯织物We've just had a new carpet fitted/laid in our bedroom.我们刚在卧室里铺了新地毯。We've got fitted (= cut to fit exactly) carpets in the bedrooms.我们的卧室的地毯是按面积定做的。"	"noun(a shaped piece of) thick material used for covering floors地毯；地毯织物We've just had a new carpet fitted/laid in our bedroom.我们刚在卧室里铺了新地毯。We've got fitted (= cut to fit exactly) carpets in the bedrooms.我们的卧室的地毯是按面积定做的。nouna layer of something that covers the ground（覆盖地面的）一层a carpet of snow一层积雪Our lawn is a carpet of daisies.我们的草坪上开满了雏菊。"	
+herd	UK[hɜːd] US[hɝːd]		verbto make animals move together as a group（将…）赶成一群，放牧An old woman was herding the goats.一位老妇人正在山坡上放牧山羊。	verbto make animals move together as a group（将…）赶成一群，放牧An old woman was herding the goats.一位老妇人正在山坡上放牧山羊。verbto make people move somewhere as a group, often against their wishes or with difficulty（常指强迫性地）使集中在一起	
+exotic	UK[ɪɡˈzɒt.ɪk] US[ɪɡˈzɑː.t̬ɪk]		adjectiveunusual and exciting because of coming (or seeming to come) from far away, especially a tropical country异国风情的，外国情调的；奇异的exotic flowers/food/designs奇花异草／外国风味的食物／奇异的设计	adjectiveunusual and exciting because of coming (or seeming to come) from far away, especially a tropical country异国风情的，外国情调的；奇异的exotic flowers/food/designs奇花异草／外国风味的食物／奇异的设计	
+flank	UK[flæŋk] US[flæŋk]		verb [ T usually passive ]to be at the side of someone or something在…侧面The president was flanked by senior advisors.部长们簇拥在总统的两侧。	verb [ T usually passive ]to be at the side of someone or something在…侧面The president was flanked by senior advisors.部长们簇拥在总统的两侧。	
+sweeping thoroughfare	一览无遗		
+entourage	随行人员		
+chauffeured	专车接送		
+enclave	飞地		
+tier	UK[tɪər] US[tɪr]		noun [ C ]one of several layers or levels（多层、多层次中的）一层We sat in one of the upper tiers of the football stands.我们坐在足球场看台的上层位置。My wedding cake had four tiers, each supported by small pillars.我的结婚蛋糕有4层，每层都由小柱子撑着。	noun [ C ]one of several layers or levels（多层、多层次中的）一层We sat in one of the upper tiers of the football stands.我们坐在足球场看台的上层位置。My wedding cake had four tiers, each supported by small pillars.我的结婚蛋糕有4层，每层都由小柱子撑着。	
+luxury	豪華		
+lounge	UK[laʊndʒ] US[laʊndʒ]		noun [ C ]a room in a hotel, airport, theatre, etc. where people can relax or wait（酒店、机场、剧院等的）休息厅，等候室an airport lounge机场候机厅a cocktail lounge鸡尾酒酒吧间	noun [ C ]a room in a hotel, airport, theatre, etc. where people can relax or wait（酒店、机场、剧院等的）休息厅，等候室an airport lounge机场候机厅a cocktail lounge鸡尾酒酒吧间noun [ C ]the room in a house or apartment that is used for relaxing and entertaining guests in客厅，起居室All the family were sitting in the lounge watching television.全家人都坐在客厅里看电视。	
+lounge	UK[laʊndʒ] US[laʊndʒ]		noun [ C ]a room in a hotel, airport, theatre, etc. where people can relax or wait（酒店、机场、剧院等的）休息厅，等候室an airport lounge机场候机厅a cocktail lounge鸡尾酒酒吧间	noun [ C ]a room in a hotel, airport, theatre, etc. where people can relax or wait（酒店、机场、剧院等的）休息厅，等候室an airport lounge机场候机厅a cocktail lounge鸡尾酒酒吧间noun [ C ]the room in a house or apartment that is used for relaxing and entertaining guests in客厅，起居室All the family were sitting in the lounge watching television.全家人都坐在客厅里看电视。	
+convergence	UK[kənˈvɜː.dʒəns] US[-ˈvɝː-]		"noun [ C or U ]the fact that two or more things, ideas, etc. become similar or come together（观点等）趋于一致，趋同；会合，聚集a convergence of interests/opinions/ideas利益／观点／想法趋同The convergence of pop-cultural trends and technological progress gave us camera phones and the ""selfie"".流行文化趋势和技术进步的结合让我们有了照相手机和“自拍”。"	"noun [ C or U ]the fact that two or more things, ideas, etc. become similar or come together（观点等）趋于一致，趋同；会合，聚集a convergence of interests/opinions/ideas利益／观点／想法趋同The convergence of pop-cultural trends and technological progress gave us camera phones and the ""selfie"".流行文化趋势和技术进步的结合让我们有了照相手机和“自拍”。"	
+entitlement	權利		
+privilege	特權		
+vast	巨大的		
+patronage	赞助人		
+bracing	支撑		
+decreed	法令		
+hospitality area	招待區		
+doling	分發、施捨		
+jolt	震動、震驚		
+regard	UK[rɪˈɡɑːd] US[rɪˈɡɑːrd]		verb [ T usually + adv/prep ]to consider or have an opinion about something or someone考虑，思考；将…认为；看待Environmentalists regard GM technology with suspicion.环境论者对转基因技术持怀疑态度。Her parents always regarded her as the smartest of their children.她父母一贯把她看作是所有子女中最聪明的。	verb [ T usually + adv/prep ]to consider or have an opinion about something or someone考虑，思考；将…认为；看待Environmentalists regard GM technology with suspicion.环境论者对转基因技术持怀疑态度。Her parents always regarded her as the smartest of their children.她父母一贯把她看作是所有子女中最聪明的。verb [ T usually + adv/prep ]to look carefully at something or someone注视，凝视The bird regarded me with suspicion as I walked up to its nest.我走向鸟巢的时候，那只鸟怀疑地注视着我。as regardsin connection with关于，至于There is no problem as regards the financial arrangements.资金筹备方面毫无问题。	
+hazel	UK[ˈheɪ.zəl] US[ˈheɪ.zəl]		nouna greenish-brown or yellowish-brown colour绿褐色，黄褐色	nouna small tree that produces nuts that can be eaten榛树nouna greenish-brown or yellowish-brown colour绿褐色，黄褐色	
+wavy	UK[ˈweɪ.vi] US[ˈweɪ.vi]		adjectivehaving a series of curves卷曲的；波浪式的Sarah has wavy blond hair.萨拉有着一头金色卷发。	adjectivehaving a series of curves卷曲的；波浪式的Sarah has wavy blond hair.萨拉有着一头金色卷发。	
+button nose			扁而小的鼻子（非正式）	扁而小的鼻子（非正式）	
+cannily	UK[ˈkæn.əl.i] US[ˈkæn.əl.i]		adverbin a way that shows quick and clever thinking, especially about business or financial matters（尤指在生意或财务方面）精明地，机灵地They cannily backed out of the agreement just in time.他们精明地及时退出了协议。	adverbin a way that shows quick and clever thinking, especially about business or financial matters（尤指在生意或财务方面）精明地，机灵地They cannily backed out of the agreement just in time.他们精明地及时退出了协议。	
+prevalent	UK[ˈprev.əl.ənt] US[ˈprev.əl.ənt]		adjectiveexisting very commonly or happening often流行的，盛行的，普遍的These diseases are more prevalent among young children.这些疾病在幼儿中更普遍。Trees are dying in areas where acid rain is most prevalent.在酸雨非常严重的地区，树木正面临枯死。	adjectiveexisting very commonly or happening often流行的，盛行的，普遍的These diseases are more prevalent among young children.这些疾病在幼儿中更普遍。Trees are dying in areas where acid rain is most prevalent.在酸雨非常严重的地区，树木正面临枯死。	
+cater	UK[ˈkeɪ.tər] US[ˈkeɪ.t̬ɚ]		"verb [ I or T ]to provide, and sometimes serve, food提供饮食；承办（宴席）I'm catering for twelve on Sunday - the whole family is coming.星期天我要招待12个人，全家都要来。Which firm will be catering at the wedding reception?将由哪家公司承办婚宴？"	"verb [ I or T ]to provide, and sometimes serve, food提供饮食；承办（宴席）I'm catering for twelve on Sunday - the whole family is coming.星期天我要招待12个人，全家都要来。Which firm will be catering at the wedding reception?将由哪家公司承办婚宴？"	
+perceive	UK[pəˈsiːv] US[pɚ-]		"verb [ T ]to come to an opinion about something, or have a belief about something认为；看待；视为How do the French perceive the British?法国人是如何看待英国人的？Women's magazines are often perceived to be superficial.女性杂志通常被认为是肤浅的。"	"verb [ T ]to come to an opinion about something, or have a belief about something认为；看待；视为How do the French perceive the British?法国人是如何看待英国人的？Women's magazines are often perceived to be superficial.女性杂志通常被认为是肤浅的。verb [ T ]to see something or someone, or to notice something that is obvious察觉，注意到，意识到Bill perceived a tiny figure in the distance.比尔注意到远处有个很小的身影。I perceived a note of unhappiness in her voice.我从她的声音中觉察出一丝不快。"	
+spectator	UK[spekˈteɪ.tər] US[spekˈteɪ.t̬ɚ]		noun [ C ]a person who watches an activity, especially a sports event, without taking part（尤指体育赛事的）观众They won 4–0 in front of over 40,000 cheering spectators.他们在4万多名观众的加油助威声中以4比0获胜。	noun [ C ]a person who watches an activity, especially a sports event, without taking part（尤指体育赛事的）观众They won 4–0 in front of over 40,000 cheering spectators.他们在4万多名观众的加油助威声中以4比0获胜。	
+bruising	UK[ˈbruː.zɪŋ] US[ˈbruː.zɪŋ]		adjectiveA bruising experience is one in which someone defeats you or is very rude to you.（经历）不愉快的I had a bruising encounter with my ex-husband last week.上周我碰上了前夫，结果不欢而散。	adjectiveA bruising experience is one in which someone defeats you or is very rude to you.（经历）不愉快的I had a bruising encounter with my ex-husband last week.上周我碰上了前夫，结果不欢而散。	
+coordinator	UK[kəʊˈɔː.dɪ.neɪ.tər] US[koʊˈɔːr.dən.eɪ.t̬ɚ]		"noun [ C ]someone whose job is to make different groups work together in an organized way to achieve something协调人，统筹者We've just appointed a coordinator who will oversee the whole project.我们刚刚指定了一位监督整个工程的协调人。"	"noun [ C ]someone whose job is to make different groups work together in an organized way to achieve something协调人，统筹者We've just appointed a coordinator who will oversee the whole project.我们刚刚指定了一位监督整个工程的协调人。"	
+persuade	UK[pəˈsweɪd] US[pɚˈsweɪd]		"verb [ T ]to make someone do or believe something by giving them a good reason to do it or by talking to that person and making them believe it劝服；说服If she doesn't want to go, nothing you can say will persuade her.如果她不想去，你说什么也劝不动她。It's no use trying to persuade him (that) you're innocent.试图让他相信你无辜是徒劳的。"	"verb [ T ]to make someone do or believe something by giving them a good reason to do it or by talking to that person and making them believe it劝服；说服If she doesn't want to go, nothing you can say will persuade her.如果她不想去，你说什么也劝不动她。It's no use trying to persuade him (that) you're innocent.试图让他相信你无辜是徒劳的。"	
+disdainful	UK[dɪsˈdeɪn.fəl] US[dɪsˈdeɪn.fəl]		adjectiveshowing that someone does not like someone or something and thinks that they do not deserve interest or respect轻视的，蔑视的，鄙视的She cast a disdainful glance at the food.她不屑地看了一眼食物。He is openly disdainful of journalists who question him.他公开对质疑他的记者表示不屑。	adjectiveshowing that someone does not like someone or something and thinks that they do not deserve interest or respect轻视的，蔑视的，鄙视的She cast a disdainful glance at the food.她不屑地看了一眼食物。He is openly disdainful of journalists who question him.他公开对质疑他的记者表示不屑。	
+era	UK[ˈɪə.rə] US[ˈɪr.ə]		noun [ C ]a period of time of which particular events or stages of development are typical时代；年代the Jefferson era杰斐逊时代a bygone (= past) era过去的时代	noun [ C ]a period of time of which particular events or stages of development are typical时代；年代the Jefferson era杰斐逊时代a bygone (= past) era过去的时代	
+demonstrate	UK[ˈdem.ən.streɪt] US[ˈdem.ən.streɪt]		"verbto show or make make something clear显示；表明These numbers clearly demonstrate the size of the economic problem facing the country.这些数字清楚表明了该国经济问题的严重程度。Research has demonstrated that babies can recognize their mother's voice very soon after birth.研究表明，婴儿出生后很快就能辨识母亲的声音。"	"verbto show or make make something clear显示；表明These numbers clearly demonstrate the size of the economic problem facing the country.这些数字清楚表明了该国经济问题的严重程度。Research has demonstrated that babies can recognize their mother's voice very soon after birth.研究表明，婴儿出生后很快就能辨识母亲的声音。verbto show something and explain how it works展示，演示He got a job demonstrating kitchen equipment in a department store.他找到一份在百货店演示厨房设备的工作。The teacher demonstrated how to use the equipment.老师演示了如何使用这种设备。verbto express or show that you have a particular feeling, quality, or ability表达；表露；表现；显露He has demonstrated a genuine interest in the project.他对该项目表现出了极大的兴趣。His answer demonstrated a complete lack of understanding of the question.他的回答表明他完全没有理解这个问题。verbto make a public expression that you are not satisfied about something, especially by marching or having a meeting示威，游行Thousands of people gathered to demonstrate against the new proposals.数千人聚集在一起示威，抗议这些新提案。"	
+analogy	UK[əˈnæl.ə.dʒi] US[əˈnæl.ə.dʒi]		noun [ C or U ]a comparison between things that have similar features, often used to help explain a principle or idea类似；类比；比拟；类推He drew an analogy between the brain and a vast computer.他把大脑比作一台庞大的计算机。It is sometimes easier to illustrate an abstract concept by analogy with (= by comparing it with) something concrete.有时用具体事物作比拟来阐释抽象概念会更容易些。	noun [ C or U ]a comparison between things that have similar features, often used to help explain a principle or idea类似；类比；比拟；类推He drew an analogy between the brain and a vast computer.他把大脑比作一台庞大的计算机。It is sometimes easier to illustrate an abstract concept by analogy with (= by comparing it with) something concrete.有时用具体事物作比拟来阐释抽象概念会更容易些。	
+procure	UK[prəˈkjʊər] US[prəˈkjʊr]		"verbto get something, especially after an effort（努力）取得，获得She's managed somehow to procure his phone number.她不知怎么设法弄到了他的电话号码。He'd procured us seats in the front row.他帮我们弄到了前排的座位。"	"verbto get something, especially after an effort（努力）取得，获得She's managed somehow to procure his phone number.她不知怎么设法弄到了他的电话号码。He'd procured us seats in the front row.他帮我们弄到了前排的座位。verbto get a prostitute for someone else to have sex with（为…）做淫媒，（给…）拉皮条"	
+immediate	UK[ɪˈmiː.di.ət] US[ɪˈmiː.di.ət]		adjectivehappening or done without delay or very soon after something else立即的，即刻的We must make an immediate response.我们必须立即作出反应。Dioxin is a poison that takes immediate effect.二恶英是一种速效毒药。	adjectivehappening or done without delay or very soon after something else立即的，即刻的We must make an immediate response.我们必须立即作出反应。Dioxin is a poison that takes immediate effect.二恶英是一种速效毒药。adjectiveused to refer to something or someone that is close to, or is a cause of or an effect of, something or someone else接近的，紧接的，直接的There are few facilities in the immediate area.在邻近地区几乎没有什么设施。An immediate result/effect of the war was a breakdown of law and order.战争的直接后果／影响是治安的瘫痪。adjectivein the present or as soon as possible目前的；尽快的We have no immediate plans.我们目前没有计划。The public has demanded his immediate resignation.公众要他立刻辞职。the immediate futurethe period of time that is coming next近期your immediate familyyour closest relations, such as your parents, children, husband, or wife直系亲属（如父母、子女、配偶等）	
+antonym	UK[ˈæn.tə.nɪm] US[ˈæn.t̬ən.ɪm]		"noun [ C ]a word that means the opposite of another word反义词Two antonyms of ""light"" are ""dark"" and ""heavy"".light 的两个反义词是 dark 和 heavy。"	"noun [ C ]a word that means the opposite of another word反义词Two antonyms of ""light"" are ""dark"" and ""heavy"".light 的两个反义词是 dark 和 heavy。"	
+indolent	UK[ˈɪn.dəl.ənt] US[ˈɪn.dəl.ənt]		adjectiveshowing no real interest or effort懒散的；懒惰的an indolent wave of the hand懒懒的挥手an indolent reply懒洋洋的答复	adjectiveshowing no real interest or effort懒散的；懒惰的an indolent wave of the hand懒懒的挥手an indolent reply懒洋洋的答复	
+bereft	UK[bɪˈreft] US[bɪˈreft]		adjective [ after verb ]not having something or feeling great loss缺乏…的；感到失落的Alone now and almost penniless, he was bereft of hope.他现在孤身一人，又几乎不名一文，对生活已不抱一丝希望。After the last of their children had left home the couple felt utterly bereft.最后一个孩子离家之后，这对夫妇感到一无所有了。	adjective [ after verb ]not having something or feeling great loss缺乏…的；感到失落的Alone now and almost penniless, he was bereft of hope.他现在孤身一人，又几乎不名一文，对生活已不抱一丝希望。After the last of their children had left home the couple felt utterly bereft.最后一个孩子离家之后，这对夫妇感到一无所有了。	
+profound	UK[prəˈfaʊnd] US[prəˈfaʊnd]		"adjectivefelt or experienced very strongly or in an extreme way强烈的；深沉的；极度的His mother's death when he was aged six had a very profound effect on him.他6岁时母亲的过世对他的影响很大。The invention of the contraceptive pill brought about profound changes in the lives of women.避孕药的发明给妇女的生活带来了深刻的变化。"	"adjectivefelt or experienced very strongly or in an extreme way强烈的；深沉的；极度的His mother's death when he was aged six had a very profound effect on him.他6岁时母亲的过世对他的影响很大。The invention of the contraceptive pill brought about profound changes in the lives of women.避孕药的发明给妇女的生活带来了深刻的变化。adjectiveshowing a clear and deep understanding of serious matters造诣深的；思想深邃的profound truths/wisdom深奥的真理／博大的智慧The review that I read said that it was ""a thoughtful and profound film"".我看过的评论说它是一部“有创意、有深度的电影”。"	
+endure	UK[ɪnˈdʒʊər] US[ɪnˈdʊr]		"verbto suffer something difficult, unpleasant, or painful忍耐；忍受We had to endure a nine-hour delay at the airport.航班延误，我们不得不在机场苦等了9个小时。She's already had to endure three painful operations on her leg.她已经承受了3次腿部手术的巨大痛苦。"	"verbto suffer something difficult, unpleasant, or painful忍耐；忍受We had to endure a nine-hour delay at the airport.航班延误，我们不得不在机场苦等了9个小时。She's already had to endure three painful operations on her leg.她已经承受了3次腿部手术的巨大痛苦。verbto continue to exist for a long time持续；持久The political system established in 1400 endured until about 1650.建立于1400年的政治体系一直沿用到1650年前后。"	
+pounding	UK[ˈpaʊn.dɪŋ] US[ˈpaʊn.dɪŋ]		noun [ C or S ]a heavy attack or defeat重击，重创The city received heavy poundings from the air every night last week.上周这座城市每晚都遭到猛烈空袭。	noun [ C or S ]a heavy attack or defeat重击，重创The city received heavy poundings from the air every night last week.上周这座城市每晚都遭到猛烈空袭。noun [ C or S ]a regular sound of something hitting something else or of a loud noise有规则的敲击声the pounding of his heart他砰砰的心跳	
+frivolity	UK[frɪˈvɒl.ə.ti] US[frɪˈvɑː.lə.t̬i]		"noun [ C or U ]behaviour that is silly and not serious, or things that are silly and not important愚蠢轻率所为；无关痛痒的事物You shouldn't treat such a serious subject with frivolity.对待如此严肃的话题不能敷衍轻视。I'm far too busy to waste time on frivolities like going to the cinema.我忙得不可开交，不会把时间浪费在看电影之类无聊的事上。"	"noun [ C or U ]behaviour that is silly and not serious, or things that are silly and not important愚蠢轻率所为；无关痛痒的事物You shouldn't treat such a serious subject with frivolity.对待如此严肃的话题不能敷衍轻视。I'm far too busy to waste time on frivolities like going to the cinema.我忙得不可开交，不会把时间浪费在看电影之类无聊的事上。"	
+excruciating	UK[ɪkˈskruː.ʃi.eɪ.tɪŋ] US[ɪkˈskruː.ʃi.eɪ.t̬ɪŋ]		adjectiveextremely painful剧烈疼痛的；极痛苦的an excruciating pain in the lower back腰部的剧烈疼痛	adjectiveextremely painful剧烈疼痛的；极痛苦的an excruciating pain in the lower back腰部的剧烈疼痛adjectiveextremely boring or embarrassing极其乏味的；极其令人厌烦的；极度尴尬的excruciating boredom极其无聊His confession, when it came, was excruciating.他终于承认时让人感到十分尴尬。	
+cumulative	UK[ˈkjuː.mjə.lə.tɪv] US[ˈkjuː.mjə.lə.t̬ɪv]		adjectiveincreasing by one addition after another累积的；渐增的The cumulative effect of using so many chemicals on the land could be disastrous.使用大量化学物质经年累月会对土地造成灾难性的后果。	adjectiveincreasing by one addition after another累积的；渐增的The cumulative effect of using so many chemicals on the land could be disastrous.使用大量化学物质经年累月会对土地造成灾难性的后果。	
+abandoned	UK[əˈbæn.dənd] US[əˈbæn.dənd]		adjectiveleft in a particular place or condition, usually forever被遗弃的；遭弃用的An abandoned baby was found in a box on the hospital steps.在医院台阶上的一个箱子里发现了一个弃婴。The world is full of abandoned mines.世界上到处都是废弃的矿井。	adjectiveleft in a particular place or condition, usually forever被遗弃的；遭弃用的An abandoned baby was found in a box on the hospital steps.在医院台阶上的一个箱子里发现了一个弃婴。The world is full of abandoned mines.世界上到处都是废弃的矿井。	
